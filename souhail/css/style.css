@@ -1,0 +1,37 @@
+.lien{
+color:    red;
+display: inline;
+margin-left: 2cm;
+font-size: 24px; }
+.lien:hover{ color : white;}
+#kin {margin-bottom: 1cm;
+margin-top: 1cm;}   
+ body{
+    
+    background-image: 
+    Linear-gradient(217deg, 
+    rgba(255,0,0,.8),
+    rgba(255,0,0,0)
+    70.71%),
+    
+    Linear-gradient(127deg,
+    black, 
+    black 70.71%),
+     
+    Linear-gradient(336deg,
+    rgba(0,0,255,.8),
+    rgba(0,0,255,0)
+    70.71%);
+      }
+ .lol{ display: inline-block;
+    width: 1500px;
+    height: 500px;}   
+ p{color: 
+    red;
+font-size: 20px;}
+#logo{width : 1 cm ; height : 1cm ; }
+.dr {display : inline-block;
+width : 7cm;
+height :7cm;}
+    
+    
